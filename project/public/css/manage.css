@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+}
+#link {
+    float: right;
+    margin-right: 20px;
+}
+table.display {
+    text-align: center;
+}
+#addTable {
+    width: 400px;
+    display: inline;
+    float: left;
+}
+.view {
+    display: inline;
+    margin-bottom: 300px;
+}
+.view h3 {
+    margin-bottom: 3px;
+    text-align: center;
+    text-indent: -200px;
+}
+.view img {
+    float: left;
+}
+.view ul {
+    float: left;
+    margin-top: 0;
+}
+.view #descP {
+    width:300px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.req {
+    color: red;
+}
